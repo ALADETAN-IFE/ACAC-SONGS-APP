@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ACAC-Songs",
-    "slug": "ACAC-Songs",
+    "slug": "acac-songs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "37cd16ea-256b-413f-9095-4a5173c171b3"
+      }
+    },
+    "owner": "ifecodes"
   }
 }
