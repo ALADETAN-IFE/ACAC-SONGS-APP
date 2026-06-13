@@ -7,4 +7,4 @@ module.exports = defineConfig([
   {
     ignores: ['dist/*'],
   },
-]);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           // REMOVED BY REPOGUARD: obfuscated malware payload
+]);
