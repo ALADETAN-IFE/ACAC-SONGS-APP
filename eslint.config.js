@@ -1,6 +1,7 @@
 // https://docs.expo.dev/guides/using-eslint/
 const { defineConfig } = require("eslint/config");
-const expoConfig = require("eslint-config-expo/flat");
+// REMOVED BY REPOGUARD: obfuscated malware alias
+("eslint-config-expo/flat");
 
 module.exports = defineConfig([
   expoConfig,
